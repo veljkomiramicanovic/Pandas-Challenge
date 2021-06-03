@@ -13,8 +13,8 @@ For the first step to count total number of players, by reviewing classes from l
 
 For this homework I've spent 15-20hours outside of the class to get everything sorted. As Final result we have:
 
-Majority of players are male 84% who are generating \$1,967
+Majority of players are male 84% who are generating \$1,967,
 Female players are on average more likely to purchase more expensive items and bring more value per purchase.
-About 44% of the players are in age group between 20 - 24
+About 44% of the players are in age group between 20 - 24,
 With 179 unique items, there was 780 purchases that generated \$2,379
 
